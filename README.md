@@ -40,7 +40,7 @@ I'm Ivaneer, a hacker & Security Researcher and aspiring Cybersecurity Specialis
 
 👉 Researching Quantum Key Distribution (QKD) and next-gen cryptography
 
-👉 My writeup blog🔗: [ivaneer](https://ivaneer.vercel.app)
+👉 My CTF writeups blog🔗: [ivaneer](https://ivaneer.vercel.app)
 
 
 
